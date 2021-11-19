@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is 7C59-0DD6
+
+ Directory of C:\Users\utkar\Desktop\git test
+
+19-11-2021  17:28    <DIR>          .
+19-11-2021  17:24    <DIR>          ..
+19-11-2021  17:28                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  198,503,546,880 bytes free
